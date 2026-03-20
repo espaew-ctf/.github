@@ -79,10 +79,9 @@ Repositories follow a consistent naming convention:
 
 | Event | Team | Result | Scope |
 |---|---|---|---|
-| [HackTheBox University CTF 2025](https://ctf.hackthebox.com) | GCC | 🥉 3rd place | Worldwide |
+| [HackTheBox University CTF 2025](https://ctf.hackthebox.com/event/2993/scoreboard) | GCC | 🥉 3rd place | Worldwide |
 
 ---
-
 ## Related Organizations
 
 <div align="center">
