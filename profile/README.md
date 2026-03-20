@@ -70,6 +70,16 @@ Repositories follow a consistent naming convention:
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Sherlock](https://img.shields.io/badge/Sherlock-dc2626?style=for-the-badge&logoColor=white)
+![WhatsMyName](https://img.shields.io/badge/WhatsMyName-991b1b?style=for-the-badge&logoColor=white)
+
+---
+
+## Highlights
+
+| Event | Team | Result | Scope |
+|---|---|---|---|
+| [HackTheBox University CTF 2025](https://ctf.hackthebox.com) | GCC | 🥉 3rd place | Worldwide |
 
 ---
 
